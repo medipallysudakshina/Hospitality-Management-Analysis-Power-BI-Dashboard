@@ -11,13 +11,12 @@ An interactive dashboard was developed using Power BI, incorporating filters for
 # Dashboard Overview 
 The dashboard brings together all major hospitality KPIs in a clean and intuitive layout. It includes:
 
-- **Summary KPIs** for Revenue, RevPAR, DSRN, Occupancy %, ADR, and Realisation %.
-- **Occupancy split by category** (Business vs Luxury).
-- **Week-on-week trends** for RevPAR, ADR, and Occupancy %.
-- **Booking platform analysis** showing how different channels perform in terms of ADR and Realisation %.
-- **Property-level performance table** with full visibility into revenue, cancellations, occupancy, and room night metrics.
-    
-    Users can interact with month selectors (May, June, July), weekly filters, and city/room type filters for detailed comparisons.
+- Summary KPIs for Revenue, RevPAR, DSRN, Occupancy %, ADR, and Realisation %.
+- Occupancy split by category (Business vs Luxury).
+- Week-on-week trends for RevPAR, ADR, and Occupancy %.
+- Booking platform analysis showing how different channels perform in terms of ADR and Realisation %.
+- Property-level performance table with full visibility into revenue, cancellations, occupancy, and room night metrics.
+- Users can interact with month selectors (May, June, July), weekly filters, and city/room type filters for detailed comparisons.
 
 # Key Insights 
 Overall Performance
