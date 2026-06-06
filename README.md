@@ -40,11 +40,11 @@ Property-Level Observations
 - Properties such as Atiiq Exotica and Atiiq Palace repeatedly appeared in higher-RevPAR bands.
 - Cancellation % varied significantly between properties, which impacts overall realisation and occupancy.
 # Recommendations
-- **Strengthen platforms with low Realisation %** by reviewing commission structures and guest behavior on those channels.
-- **Focus on occupancy gaps** during specific weeks by running targeted promotions or corporate tie-ups.
-- **Optimize pricing** for properties with stable ADR but fluctuating occupancy to improve RevPAR consistency.
-- **Investigate high-cancellation properties** and address operational issues or guest experience gaps contributing to cancellations.
-- **Encourage direct bookings** where ADR is strong, reducing dependency on high-commission OTAs.
+- Strengthen platforms with low Realisation % by reviewing commission structures and guest behavior on those channels.
+- Focus on occupancy gaps during specific weeks by running targeted promotions or corporate tie-ups.
+- Optimize pricing for properties with stable ADR but fluctuating occupancy to improve RevPAR consistency.
+- Investigate high-cancellation properties and address operational issues or guest experience gaps contributing to cancellations.
+- Encourage direct bookings where ADR is strong, reducing dependency on high-commission OTAs.
 
 # Outcomes
 This project provided a clear view of how each property performed month-to-month and helped highlight areas needing attention, such as low-performing booking channels and properties with unstable occupancy.
