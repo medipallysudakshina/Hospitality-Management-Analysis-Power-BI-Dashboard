@@ -19,24 +19,24 @@ The dashboard brings together all major hospitality KPIs in a clean and intuitiv
 - Users can interact with month selectors (May, June, July), weekly filters, and city/room type filters for detailed comparisons.
 
 # Key Insights 
-** Overall Performance **
+**Overall Performance**
 - Monthly revenues stayed fairly stable across May, June, and July, with slight fluctuations but consistent KPI patterns.
 - RevPAR remained around the *7,200–7,300* range, showing steady yield performance despite competitive market conditions.
 - Occupancy hovered around *57–58%*, indicating moderate utilization across properties.
 
-** Category Insights **
+**Category Insights**
 - Business and Luxury categories contributed almost equally, with both maintaining around *57%–58%* occupancy share.
 - This balance suggests healthy demand across segments and a well-distributed room inventory.
 
-** Booking Platform Patterns **
+**Booking Platform Patterns**
 - Some online platforms delivered strong Realisation %, while others showed lower ADR or poor conversion.
 - Journey, Tripster, Direct Online, and other OTAs showed notable differences in ADR trends, highlighting the importance of channel-specific strategies.
 
-** Week-wise Trends **
+**Week-wise Trends**
 - ADR stayed fairly consistent across weeks, while RevPAR fluctuated slightly based on occupancy swings.
 - Some weeks showed visible dips in occupancy, especially around W29–W31, but ADR remained stable — indicating demand softened while pricing stayed intact.
 
-** Property-Level Observations **
+**Property-Level Observations**
 - Properties such as Atiiq Exotica and Atiiq Palace repeatedly appeared in higher-RevPAR bands.
 - Cancellation % varied significantly between properties, which impacts overall realisation and occupancy.
 # Recommendations
